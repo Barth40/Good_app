@@ -6,3 +6,7 @@ keras==2.12
 opencv-python==4.5.1.48
 altair==4.0
 altair<5
+streamlit==0.88.0
+torch==1.9.0
+torchvision==0.10.0
+Pillow==8.3.1
