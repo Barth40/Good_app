@@ -1,0 +1,6 @@
+streamlit==1.9.0
+tensorflow==2.12
+keras==2.12
+opencv-python==4.5.1.48
+altair==4.0
+altair<5
