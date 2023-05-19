@@ -5,4 +5,4 @@ tensorflow==2.12
 keras==2.12
 opencv-python==4.5.1.48
 altair==4.0
-protobuf~=3.19.0
+protobuf==3.20.*
